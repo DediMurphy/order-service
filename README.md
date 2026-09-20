@@ -2,8 +2,8 @@
 
 Track A (Golang). REST API pengelolaan produk, customer, dan pesanan.
 
-**Nama peserta:** _(isi)_
-**Tanggal kirim:** _(isi)_
+**Nama peserta:** Dedi Murphy
+**Tanggal kirim:** 21 September 2026
 
 ## Stack
 
