@@ -1,0 +1,12 @@
+.env
+
+*.db
+*.db-shm
+*.db-wal
+
+/bin/
+order-service
+order-service.exe
+
+.idea/
+.vscode/
